@@ -1,3 +1,7 @@
+## 0.3.3+1
+
+* Adds macOS as a supported platform.
+
 ## 0.3.3
 
 * Supports adding discount information to AppStorePurchaseParam. 
